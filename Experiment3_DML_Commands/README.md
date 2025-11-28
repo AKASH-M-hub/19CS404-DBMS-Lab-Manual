@@ -52,7 +52,8 @@ Write a SQL statement to change the first_name column of employees table with 'J
 update employees
 set first_name = 'John'
 where department_id = 80
-and commission_pct<0.35;```
+and commission_pct<0.35;
+```
 
 **Output:**
 
